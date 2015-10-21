@@ -1,0 +1,8 @@
+git init
+git add .
+git config --global user.email ""
+git config --global user.name ""
+git commit -m "baitap"
+git remote add origin https://github.com/tuongtuong93/chjtuong93.git
+git remote
+git push origin master
